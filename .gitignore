@@ -1,0 +1,8 @@
+# Private challenge materials
+author/
+solution/
+hints/
+
+# Local testing and generated package
+player-test/
+case-file-013-player.zip
